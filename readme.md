@@ -46,12 +46,14 @@ The project uses **BLIP (Bootstrapping Language-Image Pre-training) VQA model**,
 ```bash
 git clone https://github.com/your-username/vqa-project.git
 cd vqa-project
+```
 
-2️⃣ Install Requirements
-
+### 2️⃣ Install Requirements
+```
 pip install -r requirements.txt
+```
 
-3️⃣ Run VQA Demo
-
+### 3️⃣ Run VQA Demo
+```
 python vqa_demo.py
 ```
