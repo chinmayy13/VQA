@@ -44,7 +44,7 @@ The project uses **BLIP (Bootstrapping Language-Image Pre-training) VQA model**,
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/vqa-project.git
+git clone https://github.com/chinmayy13/VQA
 cd vqa-project
 ```
 
