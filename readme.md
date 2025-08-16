@@ -11,11 +11,11 @@ The project uses **BLIP (Bootstrapping Language-Image Pre-training) VQA model**,
 
 ## 🚀 Features
 
-- 🔹 Ask questions about any image and receive accurate answers
-- 🔹 Works with **local images** or **image URLs**
-- 🔹 Leverages **transformers + PyTorch** for cutting-edge performance
-- 🔹 Can be extended into **interactive web apps** (Gradio/Streamlit)
-- 🔹 Serves as a foundation for **multimodal AI projects** like Visual Reasoning, Image Captioning, and Multimodal Chatbots
+-  Ask questions about any image and receive accurate answers
+-  Works with **local images** or **image URLs**
+-  Leverages **transformers + PyTorch** for cutting-edge performance
+-  Can be extended into **interactive web apps** (Gradio/Streamlit)
+-  Serves as a foundation for **multimodal AI projects** like Visual Reasoning, Image Captioning, and Multimodal Chatbots
 
 ---
 
